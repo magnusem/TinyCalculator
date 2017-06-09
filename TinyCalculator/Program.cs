@@ -41,7 +41,7 @@ namespace TinyCalculator
             }
 
             Console.WriteLine("Result: " + Result);
-
+            Console.WriteLine("");
             Console.WriteLine("Press any key to exit the application");
             Console.ReadKey();
         }
